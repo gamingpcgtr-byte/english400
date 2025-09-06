@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENGLISH 400</title>
+
+    <style type="text/css">
+    table, th, td {border: 2px solid black;border-collapse: collapse;}
+</style>
+</head>
+<body>
+    <center>
+        <img width="250" src="logo English 400 web.jpg" alt="l0g0">
+        <h1><u>Welcome to English 400</u></h1>
+        <h2>Bienvenidos a Inglés 400</h2>
+    <p style="background-color: darkblue;"><font color="yellow">Contacto:</font><font color="orange">gatejadar@web.colegioindependencia.edu.pe</font></p>
+    <p><b>Actualmente desde:</b></p>
+            <iframe src="https://youtu.be/14IyCk50USg?si=EA7HTr8PVz_HtSUr" frameborder="0" width="700"></iframe>
+     </center>
+     <audio controls autoplay loop src="Windy Road Back To You - The Grey Room _ Golden Palms.mp3"></audio>
+    <p>El presente curso de Inglés para cuarto año tiene las siguientes características:</p>
+        <ol type="I">
+            <li><font color="blue"><b><i>Periodificación</i></b></font></li>
+                <ul style="list-style-type:disc;">
+                    <li>Primer bimestre</li>
+                    <li>Segundo bimestre</li>
+                    <li>Tercer bimestre</li>
+                    <li>Cuarto bimestre</li>
+                </ul>
+            <li><font color="red"><b><i>Tipos de evaluación</i></b></font></li>
+                <ul style="list-style-type:disc;">
+                    <li>Exposición oral o individual</li>
+                    <li>Diálogos en pares o grupos</li>
+                    <li>Productos generados en aula</li>
+                    <li>Productos finalizados en el hogar</li>
+                    <li>Resolución de fichas de comprensión</li>
+                    <li>Resolución de fichas de trabajo</li>
+                </ul>
+            <li><font color="green"><b><i>Secciones a cargo</i></b></font></li>
+                <br>
+                <center>
+                    <table>
+                        <tr>
+                            <th width="250">GRADO Y SECCIÓN</th>
+                            <th width="250">Estudiantes por sección</th>
+                        </tr>
+                        <tr align="center">
+                            <td>4°D</td>
+                            <td>26</td>
+                        </tr>
+                        <tr align="center">
+                            <td>4°F</td>
+                            <td>26</td>
+                        </tr>
+                        <tr align="center">
+                            <td>4°G</td>
+                            <td>28</td>
+                        </tr>
+                        <tr align="center">
+                            <td>4°H</td>
+                            <td>26</td>
+                        </tr>
+                        <tr align="center">
+                            <td>4°I</td>
+                            <td>28</td>
+                        </tr>
+                    </table>
+                    <p>*Información actualizada a mitad del año 2025</p>
+                </center>
+                <br>
+            <li style="background-color: darkkhaki;"><b><i>Bibliografía - Páginas web</i></b></li>
+                <ul style="list-style-type: disc;">
+                    <li>MINEDU Currículo Nacional de la Educación Básica Regular</li>
+                    <li>British Council Página web educativa</li>
+                    <li>YOUTUBE Canales educativos para la enseñanza del Inglés</li>
+                        <ul style="list-style-type: square;">
+                            <li>Alejo Lopera Inglés</li>
+                                <a href="https://www.youtube.com/@alejolopera" target="_blank">
+                                    Enlace Alejo
+                                </a>
+                            <li>Inglés fácil - ALEMA</li>
+                                <a href="https://www.youtube.com/c/InglesF%C3%A1cilALEMA" target="_blank">
+                                    Enlace ALEMA
+                                </a>
+                        </ul>
+                </ul>
+            <li><b><i>Apuntes adicionales sobre el curso</i></b></li>
+                    <dd>La nota es directamente proporcional al esfuerzo y cumplimiento. En caso de inasistencia por cualquier motivo, el estudiante debe presentar las asignaciones a la siguiente sesión. Sólo se otorgarán prórrogas en caso de pertenencia a colectivos de actividades extracurriculares de la institución educativa, figuran entre estas banda escolar, batallón escolar o representación en concursos escolares.</dd>
+                    <center><video controls width="700" src="animaker GATR.mp4" type="video/mp4"></video></center>
+        </ol>
+    <br>
+    <br>
+    <br>
+    <p style="font-family: Impact, sans-serif; font-size: 50px; background-color: crimson;">Diseño Web: Gustavo A. Tejada Rivera</p>
+</body>
+</html>
